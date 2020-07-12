@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\cassie\source\repos\testdelete\testdelete\main.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TestDelete.vcxproj -> C:\Users\Cassie\source\repos\TestDelete\Debug\TestDelete.exe

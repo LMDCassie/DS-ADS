@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\cassie\desktop\project6\code\testcode\testinsert\testinsert\main.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TestInsert.vcxproj -> C:\Users\Cassie\Desktop\Project6\Code\TestCode\TestInsert\Debug\TestInsert.exe
