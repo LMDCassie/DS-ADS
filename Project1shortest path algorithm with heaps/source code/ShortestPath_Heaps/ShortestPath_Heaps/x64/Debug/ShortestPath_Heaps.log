@@ -1,0 +1,13 @@
+﻿  FibonacciHeap.cpp
+c:\users\xiedx\desktop\shortestpath_heaps1.0\shortestpath_heaps\fibonacciheap.cpp(165): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  graph.cpp
+c:\users\xiedx\desktop\shortestpath_heaps1.0\shortestpath_heaps\graph.h(30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+c:\users\xiedx\desktop\shortestpath_heaps1.0\shortestpath_heaps\graph.h(30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xiedx\desktop\shortestpath_heaps1.0\shortestpath_heaps\main.cpp(96): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xiedx\desktop\shortestpath_heaps1.0\shortestpath_heaps\main.cpp(103): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xiedx\desktop\shortestpath_heaps1.0\shortestpath_heaps\main.cpp(179): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xiedx\desktop\shortestpath_heaps1.0\shortestpath_heaps\main.cpp(188): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  minmap.cpp
+  正在生成代码...
+  ShortestPath_Heaps.vcxproj -> C:\Users\xiedx\Desktop\ShortestPath_Heaps1.0\x64\Debug\ShortestPath_Heaps.exe
